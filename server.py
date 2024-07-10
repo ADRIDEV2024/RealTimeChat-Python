@@ -1,7 +1,7 @@
 import socket as so
 import threading 
 
-HOST = "190.169.1.135"
+HOST = "190.166.1.137"
 PORT = 3000
 LISTEN_LIMIT = 10
 active_clients = [] # List of all currently connected clients
