@@ -1,7 +1,7 @@
 import socket as so
 import threading 
 
-HOST = "192.168.1.134" # This is only a random IP
+HOST = "190.169.1.135" # This is only a random IP
 PORT = 3000
 
 def messages_from_server(client):
